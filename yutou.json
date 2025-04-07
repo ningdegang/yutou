@@ -1,1 +1,17 @@
-{"name": "YUTOU", "symbol": "YT", "description": "YOUYOU's little dog", "image": "https://raw.githubusercontent.com/ningdegang/yutou/main/yutou.jpg"}
+{
+  "name": "YUTOU",
+  "symbol": "YT",
+  "description": "YUTOU is my little dog",
+  "image": "https://raw.githubusercontent.com/ningdegang/yutou/main/yutou.png",
+  "external_url": "https://github.com/ningdegang/yutou",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
